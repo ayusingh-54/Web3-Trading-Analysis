@@ -1,0 +1,60 @@
+================================================================================
+📊 WEB3 TRADING ANALYSIS: TRADER PERFORMANCE VS MARKET SENTIMENT
+================================================================================
+
+📅 DATASET OVERVIEW
+  Analysis Period: 2023-03-28 00:00:00 to 2025-06-15 00:00:00
+  Total Trades: 211,224
+  Unique Traders: 32
+  Unique Coins: 246
+  Total Volume: $1,191,187,442.46
+  Total PnL: $10,296,958.94
+  Total Fees: $245,857.72
+  Net PnL: $10,051,101.22
+
+================================================================================
+🎯 KEY FINDINGS
+================================================================================
+
+1️⃣ OVERALL TRADING PERFORMANCE
+   • Win Rate: 41.13%
+   • Average PnL per Trade: $48.75
+   • Median PnL per Trade: $0.00
+
+2️⃣ SENTIMENT-BASED PERFORMANCE
+   Fear           : PnL=$6,699,925.19 | Win Rate=41.51% | Trades=133,871
+   Neutral        : PnL=$  230,451.73 | Win Rate=34.25% | Trades= 34,102
+   Greed          : PnL=$3,189,616.54 | Win Rate=44.65% | Trades= 36,289
+   Extreme Greed  : PnL=$  176,965.49 | Win Rate=49.01% | Trades=  6,962
+
+3️⃣ STATISTICAL CORRELATIONS
+   Total PnL           : r=-0.5981 (p=1.5600e-01) ns
+   Average PnL         : r=-0.0910 (p=8.4623e-01) ns
+   Win Rate            : r=-0.0228 (p=9.6138e-01) ns
+   Number of Trades    : r=-0.7326 (p=6.1113e-02) ns
+   Trading Volume      : r=-0.7851 (p=3.6475e-02) *
+
+4️⃣ TRADER STRATEGIES
+   Contrarian (Fear Buyer)       :    17 traders | Total PnL: $5,558,814.89
+   Momentum (Greed Rider)        :    11 traders | Total PnL: $4,023,276.47
+   Neutral                       :     4 traders | Total PnL: $484,415.86
+
+================================================================================
+💡 ACTIONABLE INSIGHTS
+================================================================================
+✅ Most Profitable Market Condition: Fear (Total PnL: $6,699,925.19)
+✅ Highest Win Rate Condition: Extreme Greed (49.01%)
+⚠️  Negative correlation between sentiment and PnL (r=-0.5981): Contrarian opportunity
+
+================================================================================
+📈 RECOMMENDATIONS FOR SMARTER TRADING
+================================================================================
+1. Monitor market sentiment as a key indicator for trade timing
+2. Consider contrarian strategies during extreme fear periods
+3. Manage risk carefully during high volatility (fear/greed extremes)
+4. Diversify trading strategies across different sentiment conditions
+5. Track correlation patterns for predictive insights
+
+================================================================================
+Report Generated: 2025-11-19 19:25:26
+================================================================================

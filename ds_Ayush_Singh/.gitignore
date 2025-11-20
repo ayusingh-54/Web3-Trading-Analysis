@@ -1,6 +1,5 @@
 __pycache__/
-outputs/
-csv_files/
+
 .ipynb_checkpoints/
 env/
 venv/
